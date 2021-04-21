@@ -8,9 +8,8 @@ import sys
 from requests_toolbelt.multipart.encoder import MultipartEncoder
 
 SERVER = "http://127.0.0.1:8000"
-FILE = sys.argv[1]#'/Users/suryakmo/Desktop/Dicee-iOS13.zip'
-#APIKEY = #sys.argv[1]
-APIKEY = sys.argv[2] #'ede8a2757277e12dde059244b8a1d6108cde1a78cf4fa0703db5ef562dd136f9'
+FILE = sys.argv[1
+APIKEY = sys.argv[2] 
 ##sys.argv
 
 
